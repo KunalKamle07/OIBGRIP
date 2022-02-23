@@ -1,0 +1,34 @@
+body{
+  background-image: url(11.jpg);
+  padding: 100px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: fantasy;
+  font-style: oblique;
+  font-weight: lighter;
+  font-variant: small-caps;
+  font-stretch:ultra-expanded;
+}
+.cont{
+  background-color: rgb(126, 188, 192);
+  border: 10px solid rgb(49, 13, 13);
+padding: 50px;
+border-radius: 15px;
+}
+h1{
+  font-size: 50px;
+}
+button{
+  border:5px solid white;
+  border-radius: 7px;
+  color: black;
+  font-family: fantasy;
+  font-size: 20px;
+  background-color: rgb(128, 128, 128);
+  box-shadow: 0 5px rgb(206, 206, 218);
+  box-sizing: border-box;
+}
+button:hover{
+  background-color:rgb(42, 184, 219);
+  
+}
